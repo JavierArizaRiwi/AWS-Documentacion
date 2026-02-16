@@ -1,4 +1,4 @@
-# AWS Bootcamp for Coders - Ruta Completa (Básico → Intermedio → Avanzado)
+# AWS Upskilling for Coders - Ruta Completa (Básico → Intermedio → Avanzado)
 
 **Duración**: 6 semanas  
 **Nivel**: Desde cero hasta AWS Solutions Architect Associate  
@@ -10,7 +10,7 @@
 ## Estructura del Repositorio
 
 ```
-aws-bootcamp-coders/
+aws-Upskilling-coders/
  00-onboarding/              # Setup inicial (4 módulos)
  01-basico/                  # Semanas 1-2 (6 temas)
  02-intermedio/              # Semanas 3-4 (9 temas)
@@ -42,7 +42,7 @@ aws-bootcamp-coders/
 
 ```bash
 # 1. Clone este repo
-git clone https://github.com/tu-usuario/aws-bootcamp-coders.git
+git clone https://github.com/JavierArizaRiwi/AWS-Documentacion
 cd aws-bootcamp-coders
 
 # 2. Lee el README del nivel donde estés
