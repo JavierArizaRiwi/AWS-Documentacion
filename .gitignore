@@ -1,0 +1,58 @@
+# AWS Credentials & Secrets
+.aws/
+*.pem
+*.key
+*.pfx
+credentials.txt
+.env
+.env.local
+.env.*.local
+secrets.json
+aws-credentials.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Logs & Temp
+*.log
+*.tmp
+*.pid
+.cache/
+
+# Terraform & IaC
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+_tfplan*
+
+# CloudFormation
+cfn-lint-errors.log
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Personal notes
+notes/private/*
+.local-notes
+
+# Sensitive files
+/labs/*/outputs/
+/labs/*/credentials/
